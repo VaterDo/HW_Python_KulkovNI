@@ -13,4 +13,4 @@ hours = minuts // 60
 print ('{:>02}:{:>02}:{:>02}'.format(hours, minuts % 60, second % 60))
 
 # либо:
-print(f'{:2f.hours}:{minuts % 60}:{second % 60}')
+#print(f'{hours}:{minuts % 60}:{second % 60}')
