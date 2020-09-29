@@ -5,10 +5,10 @@
  выведите на экран.
  '''
 #переменные
-param_1 = 10
+param_1 = int(input('Введите число: '))
 param_2 = 'привет'
 param_3 = True
 param_4 = 10.5
 
 # вывод
-print(f'{param_1}, {param_2}, {param_3}, {param_4}')
+print('Программой заданы 4 переменные, включая заданную Вами. Вот они: {}, {}, {}, {}'.format(param_1, param_2, param_3, param_4))
