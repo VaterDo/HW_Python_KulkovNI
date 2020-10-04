@@ -32,6 +32,7 @@ for t in range(big_count):
     # формируем список по услвоию № + инфо о товаре: 
     info_to_good = (good_num, good_dict)
     goods.append(info_to_good)
+    good_num += 1 # добавил счетчик
 print('Ваша структура выглядит так:')
 for i in goods:
     print(i)
