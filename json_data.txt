@@ -1,0 +1,1 @@
+[{"Talmer": -50000, "Roge": 150000, "MTS": 300000, "PegasTuristic": 90000}, {"average_profit": 180000}]

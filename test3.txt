@@ -1,0 +1,7 @@
+Ivanov - 10000
+Petrov - 20000
+Sidorov - 30000
+Mascov - 40000
+Turov - 5000
+Maksimov - 45000
+Ekimov - 50000
